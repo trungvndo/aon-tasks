@@ -1,5 +1,10 @@
 package com.trungdo.task1;
 
+/**
+ * A wrapper class that implements IncDec
+ * It delegates the method call to IncDec implementation (i.e MyIncDec)
+ * It measures method invocation time for each method using Metrics class
+ */
 public class TimedIncDec implements IncDec {
 
     private IncDec incDecImp;

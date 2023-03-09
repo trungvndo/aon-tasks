@@ -2,6 +2,10 @@ package com.trungdo.task1;
 
 import java.util.Random;
 
+/**
+ * MyIncDec class
+ * Thread sleep is added to make method invocation time more visible
+ */
 public class MyIncDec implements IncDec {
 
     private int x;

@@ -2,10 +2,21 @@ package com.trungdo.task1;
 
 import java.util.Optional;
 
+/**
+ * Metrics class is used to measure method invocation time
+ */
 public class Metrics {
 
     private long startTime;
+
+    /**
+     * className of the method that is being measured
+     */
     private String className;
+
+    /**
+     * method that is being measured
+     */
     private String methodName;
 
     public Metrics(String className) {
