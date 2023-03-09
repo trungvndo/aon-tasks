@@ -23,13 +23,14 @@
 
 ### Task 2
 
+Implementation is in class: `com.trungdo.task2.Task2`
+Unit test is in: `com.trungdo.task2.Task2Tests`
+
 The algorithm is to loop through the start index from 0 to (length of array 1 - length of array 2).
 This will exclude the case in which array 2 is longer than array 1
 For each start index, we check if this is the start index of matching sub array by looping through and comparing each element
 If a non-matching element found, terminates early and continue to new start index
 Once a matching sub array is found, return the result. Else return -1
-
-Unit tests can be found in `Tas2Tests` class
 
 ### Task 3
 
