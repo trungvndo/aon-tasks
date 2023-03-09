@@ -67,7 +67,7 @@ Other noteworthy trends: The use of AI in software development (e.g Github Copil
 
 ### Task 6
 
-One of the project I worked on and delivered is the feature of *online identity verification* for loan applications.
+One of the project I worked on and delivered is the feature of **online identity verification** for loan applications.
 Traditionally, after users apply for loans, they would need to have their identity verified at bank branches.
 By introducing this feature we allow users to be able to verify themselves at the point of application.
 
